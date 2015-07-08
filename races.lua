@@ -46,7 +46,6 @@ wood_elf = require ("Races.wood_elf_race")
 races = {}
 
 table.insert( races, dragonborn )
---[[
 table.insert( races, mountain_dwarf )
 table.insert( races, hill_dwarf )
 table.insert( races, high_elf )
@@ -60,7 +59,5 @@ table.insert( races, stout_halfling )
 table.insert( races, halforc )
 table.insert( races, human )
 table.insert( races, tiefling )
---]]
-
 
 return races

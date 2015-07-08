@@ -1,9 +1,9 @@
 -- Equipment/Armor/heavy_armor_categories
 
-ring_mail_armor = require ( Heavy.ring_mail_armor )
-chain_mail_armor = require ( Heavy.chain_mail_armor )
-splint_armor = require ( Heavy.splint_armor )
-plate_armor = require ( Heavy.plate_armor )
+ring_mail_armor = require ( "Heavy.ring_mail_armor" )
+chain_mail_armor = require ( "Heavy.chain_mail_armor" )
+splint_armor = require ( "Heavy.splint_armor" )
+plate_armor = require ( "Heavy.plate_armor" )
 
 
 heavy_armor_categories = {}

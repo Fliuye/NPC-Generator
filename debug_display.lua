@@ -11,9 +11,9 @@ debug_display.height = true
 debug_display.weight = true
 debug_display.ability_scores = true
 debug_display.background = true
-debug_display.personality_trait = false
-debug_display.ideal = false
-debug_display.bond = false
-debug_display.flaw = false
+debug_display.personality_trait = true
+debug_display.ideal = true
+debug_display.bond = true
+debug_display.flaw = true
 
 return debug_display

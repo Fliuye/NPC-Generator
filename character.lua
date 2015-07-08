@@ -212,7 +212,7 @@ local display = function ( character, debug_display )
     end
   end
 
-  if ( display.personality_trait ) then
+  if ( debug_display.personality_trait ) then
     print ("Personality Trait: "..tostring(character.personality_trait))
   end
 

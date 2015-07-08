@@ -1,8 +1,8 @@
 -- Equipment/Armor/light_armor_categories
 
-padded_armor = require ( Light.padded_armor )
-leather_armor = require ( Light.leather_armor )
-studded_leather_armor = require ( Light.studded_leather_armor )
+padded_armor = require ( "Light.padded_armor" )
+leather_armor = require ( "Light.leather_armor" )
+studded_leather_armor = require ( "Light.studded_leather_armor" )
 
 
 light_armor_categories = {}
